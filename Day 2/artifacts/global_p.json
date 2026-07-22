@@ -1,0 +1,7 @@
+{
+  "n_samples": 54000,
+  "n_neighbors": 15,
+  "seed": 42,
+  "val_fraction": 0.1,
+  "limited": false
+}
